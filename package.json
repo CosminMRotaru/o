@@ -1,0 +1,22 @@
+{
+  "name": "my-food-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Food Ordering App React Vite",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "tailwindcss": "^4.1.10",
+    "vite": "^5.0.0"
+  }
+}
