@@ -984,7 +984,6 @@ body::-webkit-scrollbar, html::-webkit-scrollbar, *::-webkit-scrollbar {
     margin-bottom: 0.2rem;
     margin-right: 0.2rem;
   }
-}
   .restaurant-header-v2 { min-height: 55px;}
   .back-link-v2 { left: 1rem; font-size: 0.97rem; padding: 0.17rem 0.9rem 0.17rem 0.2rem;}
   .restaurant-title-v2 { font-size: 1.45rem;}
