@@ -964,7 +964,6 @@ body::-webkit-scrollbar, html::-webkit-scrollbar, *::-webkit-scrollbar {
     align-items: flex-start;
     justify-content: flex-start;
   }
-  }
   .nav-restaurants {
     width: 100vw;
     flex-wrap: wrap;
