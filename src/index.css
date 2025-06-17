@@ -956,15 +956,14 @@ body::-webkit-scrollbar, html::-webkit-scrollbar, *::-webkit-scrollbar {
     padding: 1px 7px;
   }
   .logo-food-dot { font-size: 2.2rem; margin-right: 1rem; }
-  .navbar { 
-    padding: 0.7rem 1rem;
+ .navbar {
+    padding: 1.3rem 1rem 1.3rem 1rem; 
+    min-height: 110px;
+    height: auto;
     flex-direction: column;
     align-items: flex-start;
+    justify-content: flex-start;
   }
-  .navbar {
-    padding: 0.7rem 1rem;
-    flex-direction: column;
-    align-items: flex-start;
   }
   .nav-restaurants {
     width: 100vw;
@@ -978,11 +977,12 @@ body::-webkit-scrollbar, html::-webkit-scrollbar, *::-webkit-scrollbar {
     justify-content: flex-start;
   }
   .nav-btn {
-    padding: 0.36rem 0.85rem;
-    font-size: 1rem;
+    padding: 0.36rem 1.1rem;
+    font-size: 0.7rem;
     min-width: 110px;
     margin-bottom: 0.2rem;
     margin-right: 0.2rem;
+    white-space: nowrap;
   }
   .restaurant-header-v2 { min-height: 55px;}
   .back-link-v2 { left: 1rem; font-size: 0.97rem; padding: 0.17rem 0.9rem 0.17rem 0.2rem;}
